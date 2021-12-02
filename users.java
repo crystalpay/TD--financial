@@ -10,3 +10,5 @@ Bethuel
 Jacy
 Awah
 Stacy
+Clemence added in dev
+Rachel added in dev
